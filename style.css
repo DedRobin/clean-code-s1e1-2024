@@ -106,7 +106,7 @@ button:hover {
   vertical-align: middle;
 }
 
-.task__item > input[type="checkbox"] {
+.task__item > .task__checkbox {
   margin: 0 10px;
 }
 .task__item > label {
